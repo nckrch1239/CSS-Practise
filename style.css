@@ -32,6 +32,8 @@ h1 {
 }
 .styledFont{
     font-family: 'Franklin Gothic Medium';
+    color: rgb(179, 84, 179);
+    font: outline;
 
 }
 #styledImage{
@@ -42,8 +44,8 @@ h1 {
     width: 50%;
     -webkit-filter: contrast(180%);filter: contrast(180%);
     padding: 1px;
-    border: 1px solid #021a40;
-    background-color: #808080;
+    border: 5px solid #0000FF;
+    background-color: #FFFF00;
 }
 #styledImage:hover{
     -webkit-transform: scaleX(-1);
